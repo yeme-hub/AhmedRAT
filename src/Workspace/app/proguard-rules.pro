@@ -1,0 +1,6 @@
+-keep class com.android.vending.helper.** { *; }
+-keep class org.json.** { *; }
+-keep class androidx.core.** { *; }
+-dontwarn com.android.vending.helper.**
+-dontwarn org.json.**
+-dontwarn androidx.**

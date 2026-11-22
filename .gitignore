@@ -1,0 +1,11 @@
+build/
+.gradle/
+local.properties
+*.apk
+output/
+*.keystore
+*.jks
+build.log
+tools/
+gradle-8.2/
+.idea/
